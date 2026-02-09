@@ -9,7 +9,7 @@ GTA VI-inspired Catppuccin Frappe color scheme for [Omabuntu](https://omabuntu.o
 Use the normal Omabuntu theme install method:
 
 ```bash
-omakub-theme-install https://github.com/OldJobobo/omarchy-florida-man-theme
+omakub-theme-install https://github.com/omakasui/omakasui-florida-man-theme
 ```
 
 ## Attribution
