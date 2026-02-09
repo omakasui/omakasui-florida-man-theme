@@ -3,7 +3,7 @@
 GTA VI-inspired Catppuccin Frappe color scheme for [Omabuntu](https://omabuntu.omakasui.org) and Omadeb.
 
 ## Preview
-![Theme preview 2560x1440](preview.png)
+![Theme preview](preview.png)
 
 ## Install
 Use the normal Omabuntu theme install method:
